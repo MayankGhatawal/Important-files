@@ -47,9 +47,11 @@ const Func = (parameters) => {
 // console.log(company)
 // console.log(d);
 
-function otp() {
+//OTP Genrator
+
+/* function otp() {
     let otp = ""
     otp = Math.floor(Math.random() * 9000 + 1000)
     return otp
 }
-console.log('otp: ',otp());
+console.log('otp: ',otp()); */
