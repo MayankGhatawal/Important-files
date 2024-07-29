@@ -58,58 +58,58 @@ console.log('otp: ',otp()); */
 
 //Filter Method
 
-const movies = [
-    {
-      title: "Inception",
-      genre: "Science-Fiction",
-      releaseDate: "2010"
-    },
-    {
-      title: "The Shawshank Redemption",
-      genre: "Drama",
-      releaseDate: "1994"
-    },
-    {
-      title: "The Dark Knight",
-      genre: "Action",
-      releaseDate: "2008"
-    },
-    {
-      title: "Pulp Fiction",
-      genre: "Crime",
-      releaseDate: "1994"
-    },
-    {
-      title: "Forrest Gump",
-      genre: "Drama",
-      releaseDate: "1994"
-    },
-    {
-      title: "The Matrix",
-      genre: "Science-Fiction",
-      releaseDate: "1999"
-    },
-    {
-      title: "Fight Club",
-      genre: "Drama",
-      releaseDate: "1999"
-    },
-    {
-      title: "The Godfather",
-      genre: "Crime",
-      releaseDate: "1972"
-    },
-    {
-      title: "The Lord of the Rings: The Return of the King",
-      genre: "Fantasy",
-      releaseDate: "2003"
-    },
-    {
-      title: "Interstellar",
-      genre: "Science-Fiction",
-      releaseDate: "2001"
-    }
-  ];
+// const movies = [
+//     {
+//       title: "Inception",
+//       genre: "Science-Fiction",
+//       releaseDate: "2010"
+//     },
+//     {
+//       title: "The Shawshank Redemption",
+//       genre: "Drama",
+//       releaseDate: "1994"
+//     },
+//     {
+//       title: "The Dark Knight",
+//       genre: "Action",
+//       releaseDate: "2008"
+//     },
+//     {
+//       title: "Pulp Fiction",
+//       genre: "Crime",
+//       releaseDate: "1994"
+//     },
+//     {
+//       title: "Forrest Gump",
+//       genre: "Drama",
+//       releaseDate: "1994"
+//     },
+//     {
+//       title: "The Matrix",
+//       genre: "Science-Fiction",
+//       releaseDate: "1999"
+//     },
+//     {
+//       title: "Fight Club",
+//       genre: "Drama",
+//       releaseDate: "1999"
+//     },
+//     {
+//       title: "The Godfather",
+//       genre: "Crime",
+//       releaseDate: "1972"
+//     },
+//     {
+//       title: "The Lord of the Rings: The Return of the King",
+//       genre: "Fantasy",
+//       releaseDate: "2003"
+//     },
+//     {
+//       title: "Interstellar",
+//       genre: "Science-Fiction",
+//       releaseDate: "2001"
+//     }
+//   ];
 
 // const myMovies = movies.filter( (movies) => {
 //     return movies.genre === 'Science-Fiction';
