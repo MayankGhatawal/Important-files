@@ -40,9 +40,16 @@ const Func = (parameters) => {
 
 // console.log(Force);
 
-const company = ['Bloomberg', 'Microsoft', 'Uber', 'Google', 'IBM', 'Netflix'];
+// const company = ['Bloomberg', 'Microsoft', 'Uber', 'Google', 'IBM', 'Netflix'];
 
-const d = company.pop['Bloomberg']
+// const d = company.pop['Bloomberg']
 
-console.log(company)
-console.log(d);
+// console.log(company)
+// console.log(d);
+
+function otp() {
+    let otp = ""
+    otp = Math.floor(Math.random() * 9000 + 1000)
+    return otp
+}
+console.log('otp: ',otp());
