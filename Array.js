@@ -122,3 +122,19 @@ console.log('otp: ',otp()); */
 // })
 
 // console.log(myMovies);
+
+// Reduce Method
+
+const Arr = [1 , 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+// const NewArr = Arr.reduce(function(acc, conval) {
+//     console.log(`acc: ${acc} and conval: ${conval}`);
+//     return acc + conval;
+// }, 0)
+
+const NewArr = Arr.reduce((acc, conval)=>{
+    console.log(`acc: ${acc} and conval: ${conval}`);
+    return acc + conval;
+}, 0)
+
+console.log(NewArr);
