@@ -132,9 +132,24 @@ const Arr = [1 , 2, 3, 4, 5, 6, 7, 8, 9, 10]
 //     return acc + conval;
 // }, 0)
 
-const NewArr = Arr.reduce((acc, conval)=>{
-    console.log(`acc: ${acc} and conval: ${conval}`);
-    return acc + conval;
-}, 0)
+// const NewArr = Arr.reduce((acc, conval)=>{
+//     console.log(`acc: ${acc} and conval: ${conval}`);
+//     return acc + conval;
+// }, 0)
 
-console.log(NewArr);
+// console.log(NewArr);
+
+// Find() Method
+
+// const NewArr = Arr.find((num)=> {
+//     console.log(`Arr : ${Arr} and Number: ${num}`);
+//     return num > 3 && num > 7
+// });
+
+// console.log(NewArr);
+
+// IndexOf Method
+
+let str = "Why don't scientists trust atoms? Because they make up everything!";
+
+// console.log(str.lastIndexOf('e'));
