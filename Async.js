@@ -102,7 +102,5 @@
   
 //   // wait again
 //   setTimeout(concurrent2, 10000); // after 1 second, logs "fast", then after 1 more second, "slow"
-  
-
-// Await Nature Code  
+ 
 
