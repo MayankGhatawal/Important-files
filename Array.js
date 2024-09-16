@@ -2,7 +2,7 @@
 
 // var a = [54, 423, 13, 435, 12, 5325, 123]
 
-// console.log(a[5]);
+// conso
 
 /* There are so many thing's to do in the Array when I want to take some important and they are 
 found with the i found the array which i know the array. */
